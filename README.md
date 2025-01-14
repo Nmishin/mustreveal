@@ -11,4 +11,4 @@ The mustreveal tool allows you to easily navigate thru configuration and view th
 
 Currently, only the `secret` and `password` fields are accessible.
 
-Please note: This tool is not intended to decrypt config files encrypted using `rclone config encryption` command.
+**Please note:** This tool is not intended to decrypt config files encrypted using `rclone config encryption` command.
