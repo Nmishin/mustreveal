@@ -9,4 +9,6 @@ If you need to view obscured passwords, there is no simple option available.
 
 The mustreveal tool allows you to easily navigate thru configuration and view the obscured passwords.
 
+Currently, only the `secret` and `password` fields are accessible.
+
 Please note: This tool is not intended to decrypt config files encrypted using `rclone config encryption` command.
