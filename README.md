@@ -7,7 +7,7 @@ Obscuring them is done by encrypting them and writing them out in base64.
 But rclone does not include command for reveal (decrypt) obscured configuration.
 If you need to view obscured passwords, there is no simple option available.
 
-The mustreveal tool allows you to easily navigate thru configuration and view the obscured passwords.
+The mustreveal tool allows you to easily view hidden fields in the configuration.
 
 Currently, only the `secret` and `password` fields are accessible.
 
